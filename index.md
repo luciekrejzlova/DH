@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vítej na mých stránkách
 
 You can use the [editor on GitHub](https://github.com/luciekrejzlova/DH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
